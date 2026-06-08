@@ -2,7 +2,7 @@
 
 Bu proje, bir e-ticaret platformundaki müşteri segmentlerini, harcama alışkanlıklarını ve demografik kırılımları inceleyen kapsamlı bir veri analizi raporudur. Pandas, Seaborn ve Plotly kütüphaneleri kullanılarak hazırlanmıştır.
 
-🚀 **[Canlı Raporu Görüntüle](https://ygzulyl.github.io/eticaret-analiz-raporu/)**
+🚀 **[Canlı Raporu Görüntüle] (https://ygzulyl.github.io/eticaret-analiz-raporu/)**
 
 ## 📊 Analiz İçeriği
 * Veri seti keşfi ve eksik veri analizi
